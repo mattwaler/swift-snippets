@@ -1,3 +1,3 @@
-# swift-snippets
+# Swift Snippets
 
-Swift files to grab and inject into your projects to speed things up.
+This project is a wiki-only repository of helpful Swift snippets that can be quickly copied and pasted into projects to speed up development and utilize best-practices.
